@@ -5,10 +5,12 @@ import os
  
 base_path = r"C:\Users\Dell\OneDrive\Desktop\end project\known_Faces\Akansha"
 input_dir = os.path.join(base_path, "original")  
+
 output_dir = os.path.join(base_path, "augmented")  
 
 base_path = r"C:\Users\Dell\OneDrive\Desktop\end project\known_Faces\Nupur"
 input_dir = os.path.join(base_path, "original")  
+
 output_dir = os.path.join(base_path, "augmented")  
 
 
